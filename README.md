@@ -28,3 +28,6 @@ This generative text model has several practical applications. It can be used in
 There are, however, challenges involved. Ensuring that the generated text is coherent, contextually accurate, and free of offensive or biased content is a major concern. Large models also require significant computational resources and time for training. Despite these challenges, the project demonstrates the power of deep learning and natural language processing in creating models that can generate high-quality human language.
 
 In conclusion, the Generative Text Model project successfully showcases how neural networks can be trained to understand and produce natural language. The system is capable of generating relevant, grammatically correct, and contextually appropriate text, making it a valuable tool for a wide range of applications in artificial intelligence and language-based technologies.
+
+OUTPUT :
+![Image](https://github.com/user-attachments/assets/7e9cbe43-d7f1-4da8-8e02-3f334f599211)
